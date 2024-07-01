@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --brand-color: #7ca2f4;
+
+  --dark: #121214;
+
+  --gray: #f3f7ff;
+  --white: #ffffff;
+}
+
+body {
+  font-family: "Archivo", sans-serif;
+}
